@@ -42,3 +42,13 @@
 - 中科飞测: https://www.zkftech.com/
 - 长电科技 IR: https://www.jcetglobal.com/investor/
 
+## 中科声龙与算苗科技专利
+
+- 中科声龙申请人检索: https://patents.google.com/?assignee=%22%E4%B8%AD%E7%A7%91%E5%A3%B0%E9%BE%99%E7%A7%91%E6%8A%80%E5%8F%91%E5%B1%95%EF%BC%88%E5%8C%97%E4%BA%AC%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22
+- 算苗科技申请人检索: https://patents.google.com/?assignee=%22%E7%AE%97%E8%8B%97%E7%A7%91%E6%8A%80%EF%BC%88%E5%8C%97%E4%BA%AC%EF%BC%89%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%22
+- CN219040074U（中科声龙，存储—数据处理芯片Hybrid Bonding；后转新加坡声龙）: https://patents.google.com/patent/CN219040074U/zh
+- CN121920305A（算苗，计算—存储Hybrid Bonding权利要求）: https://patents.google.com/patent/CN121920305A/zh
+- CN121925162A（算苗，3DIC缓冲层、TSV/Hybrid Bonding）: https://patents.google.com/patent/CN121925162A/zh
+- CN121034366A（算苗，DRAM行访问控制）: https://patents.google.com/patent/CN121034366A/zh
+- CN114388025B（中科声龙，DRAM刷新）: https://patents.google.com/patent/CN114388025B/zh
+- CNIPA公布公告入口: http://epub.cnipa.gov.cn/

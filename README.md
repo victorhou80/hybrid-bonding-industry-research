@@ -8,6 +8,7 @@
 - 产能、扩产、工艺认证和良率爬坡的真实含义；
 - CIS、3D NAND、logic/cache、HBM、photonics、MEMS 在 2025–2031 年的渗透节奏与转折点；
 - 算苗科技提出的 8 层存储晶圆、160GB、16TB/s、Cu–Cu 混合键合路线处在产业链哪个位置。
+- 中科声龙与算苗科技的专利组合、权属变化及其与3D存算/Hybrid Bonding路线的真实关联。
 
 ## 核心结论
 
@@ -17,6 +18,7 @@
 4. **HBM 与 Hybrid Bonding 不是同义词。** 当前大量 HBM 仍以 TSV + TCB/micro-bump 量产；HBM4、12-high 或 16-high 都不能自动计入 Hybrid Bonding 实际出货。
 5. **真正的壁垒是整条工艺闭环，**包括 CMP、Cu recess、清洗、颗粒、overlay、W2W/D2W、薄化、检测、KGD、测试、热、可靠性和客户资格。
 6. **全球没有统一可审计的 Hybrid Bonding wafer/die/package 实际出货和有效产能口径。**本研究拒绝用设备订单、公司营收、全厂 WPM 或 CapEx 反推 bonded die。
+7. **中科声龙与算苗存在技术脉络，但专利权属不能混写。**中科声龙 `CN219040074U` 已明确披露存储—计算芯片Hybrid Bonding，后转让给新加坡声龙；算苗 `CN121920305A`、`CN121925162A`则直接披露计算—存储混合键合和3D缓冲层设计。专利披露仍不等于A4E量产或Cu–Cu实物验证。
 
 ## 仓库结构
 
@@ -24,6 +26,7 @@
 report/
   Hybrid_Bonding全产业链深度研究_2025-2031_30轮审计版.md
   算苗科技_8层160GB_16TBs_CuCu混合键合与中国存储链_重做审计版.md
+  中科声龙与算苗科技_3D存算及混合键合专利审计.md
 debate/
   debate_30_rounds.md
   final_verdict.md
@@ -65,4 +68,3 @@ HBM ≠ Hybrid Bonding
 ## 免责声明
 
 本仓库用于产业研究与信息审计，不构成证券、投资或商业采购建议。未披露不等于不存在；报告中的“公开未确认”表示在资料截点之前没有取得足以进入事实表的一手证据。
-
