@@ -2,6 +2,14 @@
 
 完整引用和每条来源的适用边界位于主报告及 `evidence/` 五份研究稿中。以下为关键入口。
 
+## 2026–2031 3D IC专项来源说明
+
+专项完整来源及可用边界收录于五份新增底稿：`3dic_2026_2031_market_model.md`（34项）、`applications.md`（35项）、`capacity.md`（44项）、`competition.md`（33项）和`china_opportunities.md`（43项）。
+
+2026-07-29由Codex内置浏览器重新打开核验的关键页面包括：TSMC SoIC（SoIC-X W2W/CoW、sub-10µm、3nm stacking 2025 volume production和Gen-2/N2方向，未披露有效WPM）；Besi FY2025业绩（收入€591.3m、订单€685.0m、Q4订单€250.4m及hybrid bonding订单增加，不能换算产品产能）；新芯股份三维集成平台（TSV、Hybrid Bonding、双/多晶圆及C2W能力，未披露HB专用有效WPM/客户/良率）；CN121920305A专利入口（算苗计算—存储Hybrid Bonding权利要求，不证明A4E采用、Cu–Cu或量产）。
+
+第三方市场预测只作A5方向校准。付费底表、定义、基年或终年不可见时，不作为M1实际销售额；CoWoS WPM、HBM收入、设备订单、公司总收入和CapEx均不得替代Hybrid Bonding有效产能或单位出货。
+
 ## 制造平台与商用产品
 
 - TSMC 3DFabric: https://3dfabric.tsmc.com/english/dedicatedFoundry/technology/3DFabric.htm
