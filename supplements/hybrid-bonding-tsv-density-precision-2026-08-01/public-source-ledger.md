@@ -1,6 +1,8 @@
 # 公开来源台账与复核锚点
 
-**读取日期：** 2026-07-31
+**初始读取日期：** 2026-07-31
+
+**复核更新：** P01、P02、P07 已于 2026-08-01 通过 Codex 内置浏览器复核其网页可见内容。
 
 **规则：** 每条均为企业、设备商或研究机构的公开原始页面。不得把搜索引擎摘要、二手媒体转述、专利标题、设备订单或厂房照片当作本台账的证据本体。
 
@@ -15,6 +17,14 @@
 | P07 | [imec and EVG: 200 nm HB with record overlay accuracy](https://www.evgroup.com/company/news/detail/imec-and-ev-group-demonstrate-wafer-to-wafer-hybrid-bonding-with-200nm-interconnect-pitch-and-record-high-overlay-accuracy) | `test vehicle`；`200nm`；`below 40nm`；`100% of the dies` | 联合 test vehicle / A3 | 300 mm、全片/所有 die 范围内的公开测试车结果 | 客户产品、商品化批量、A1 出货或量化 yield |
 | P08 | [Besi Datacon 8800 CHAMEO ultra plus AC](https://www.besi.com/products-technology/product-details/product/datacon-8800-chameo-ultra-plus-ac/) | `ISO3`；`Inline IR Inspection`；`Demonstrations and sample builds` | 设备能力/样品服务 / A2 | 公开设备能力与演示/样品支持 | 数字化 placement/overlay、客户量产、产品出货 |
 | P09 | [Besi Hybrid Bonding product group](https://www.besi.com/products-technology/productgroup/hybrid-bonding/) | `optical alignment`；`high-density interconnects`；`yield` | 设备平台说明 / A2 | 平台级能力描述 | 数字化精度、吞吐、产量或客户商业化 |
+
+## 2026-08-01 定点复核
+
+| ID | 网页复核的可见字段 | 保持的结论边界 |
+|---|---|---|
+| P01 | TSMC 页面仍显示 `bond pitch starts from the sub-10µm rule` 与 `3nm chip stacking technology successfully entered volume production in 2025`。 | A2 平台状态，不升级为 SKU 工艺、良率、有效 WPM、客户或出货。 |
+| P02 | EVG 页面仍显示 pilot/volume-production 定位及 backside `±2 µm 3σ`、transparent `±1 µm 3σ`。 | A2 工具规格，不等于 HB 成品 post-bond overlay。 |
+| P07 | EVG/imec 页面仍将 200 nm Cu pad pitch、四层可路由互连的 test vehicle、全 300 mm/100% die 和 post-bond overlay vector `<40 nm` 同时表述。 | A3 test vehicle，不升级为实际产品、量化 yield 或 shipped die。 |
 
 ## 复核方法
 
